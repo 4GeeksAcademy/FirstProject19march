@@ -62,8 +62,9 @@ body {
 .fa-regular {
     font-size: 20px;
     margin-left: 6px;
-    margin-top: 10px;
+    margin-top: 15px;
     font-weight: bolder ;
+    margin-bottom: 3px;
     
 }
 
@@ -78,6 +79,7 @@ body {
 .text {
     margin-left: 10px;
     margin-bottom: -10px;
+    font-size: 15px;
 }
 
 #last {
